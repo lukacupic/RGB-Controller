@@ -1,0 +1,24 @@
+#define IR24_BRIGHTER  0xFF00EF00 // Brightness Up
+#define IR24_DARKER    0xFE01EF00 // Brightness Down
+#define IR24_OFF       0xFD02EF00 // Power OFF
+#define IR24_ON        0xFC03EF00 // Power On
+#define IR24_RED       0xFB04EF00 // RED
+#define IR24_GREEN     0xFA05EF00 // GREEN
+#define IR24_BLUE      0xF906EF00 // BLUE
+#define IR24_REDDISH   0xF708EF00 // Light RED
+#define IR24_ORANGE    0xF30CEF00 // Orange
+#define IR24_YELLOWISH 0xEF10EF00 // Light Orange
+#define IR24_YELLOW    0xEB14EF00 // YELLOW
+#define IR24_GREENISH  0xF609EF00 // Light GREEN
+#define IR24_TURQUOISE 0xF20DEF00 // TURQUOISE
+#define IR24_CYAN      0xEE11EF00 // CYAN
+#define IR24_AQUA      0xEA15EF00 // AQUA
+#define IR24_DEEPBLUE  0xF50AEF00 // Dark BLUE
+#define IR24_PURPLE    0xF10EEF00 // PURPLE
+#define IR24_MAGENTA   0xED12EF00 // MAGENTA
+#define IR24_PINK      0xE916EF00 // PINK
+#define IR24_WHITE     0xF807EF00 // WHITE
+#define IR24_FLASH     0xF40BEF00 // FLASH Mode
+#define IR24_STROBE    0xF00FEF00 // STROBE Mode
+#define IR24_FADE      0xEC13EF00 // FADE Mode
+#define IR24_SMOOTH    0xE817EF00 // SMOOTH Mode
