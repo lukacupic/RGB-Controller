@@ -1,6 +1,6 @@
 # RGB-Controller
 
-![alt text](https://lukacupic.github.io/assets/img/projects/PiX.jpg)
+<img src="https://github.com/lukacupic/RGB-Controller/blob/main/icon.png" width=128px height=128px>
 
 A phone application for controlling LED light strips via infrared (IR) blaster.
 
