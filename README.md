@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lukacupic/RGB-Controller/blob/main/icon.png" width=128px height=128px>
 
-A phone application for controlling LED light strips via infrared (IR) blaster.
+A mobile (iOS/Android) application written in Flutter for controlling LED light strips via infrared (IR) blaster.
 
 The app works out of the box for the 1080 x 2400 resolution, i.e. 20:9 ratio. Other resolutions may need manual adjustment.
 
